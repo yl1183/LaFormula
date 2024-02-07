@@ -7,10 +7,10 @@ from google.cloud.sql.connector import Connector
 
 # Replace 'your_connection_name', 'your_database_user', 'your_database_password',
 # 'your_database_host', 'your_database_name' with your actual connection details
-connection_name = 'braided-analyst-411321:us-central1:laformula'
+connection_name = connection_name
 database_user = 'sqlserver'
 database_password = 'sqlserver'
-database_host = '34.134.200.138'
+database_host = database_host
 database_name = 'laformula'
 
 connector = Connector()
