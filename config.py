@@ -1,1 +1,6 @@
-data_base_path = ''
+connection_name = 'braided-analyst-411321:us-central1:laformula'
+database_host = '34.134.200.138'
+circuits_api = 'http://ergast.com/api/f1/circuits.json'
+database_user = 'sqlserver'
+database_password = 'sqlserver'
+database_name = 'laformula'
