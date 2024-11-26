@@ -2,9 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 
 def get_length_data_scrape(url):
-    response = requests.get(url, params={'limit': '999'})
+    response = requests.get(url, params={'limit': 999})
     soup = BeautifulSoup(response.content,'html.parser')
-    selected = soup.select('th:soup-contains("Length")')
+    selected = soup.select('th:-soup-contains("Length")')
     if selected:
         length_data = selected[0].find_next().get_text(strip=True)
         if 'km' in length_data:
@@ -17,9 +17,9 @@ def get_length_data_scrape(url):
     return length_data
 
 def get_turns_data_scrape(url):
-    response = requests.get(url, params={'limit': '999'})
+    response = requests.get(url, params={'limit': 999})
     soup = BeautifulSoup(response.content,'html.parser')
-    selected = soup.select('th:soup-contains("Turns")')
+    selected = soup.select('th:-soup-contains("Turns")')
     if selected:
         turns_data = selected[0].find_next().get_text(strip=True)
     else:

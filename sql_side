@@ -1,0 +1,19 @@
+CREATE TRIGGER update_last_updated_trigger_circuits
+ON circuits
+AFTER INSERT, UPDATE, DELETE
+AS
+BEGIN
+    -- Update the last_update table with the current timestamp for the 'drivers' table
+    IF EXISTS (SELECT * FROM last_update WHERE table_name = 'circuits')
+    BEGIN
+        UPDATE last_update
+        SET last_updated = GETDATE()
+        WHERE table_name = 'circuits';
+    END
+    ELSE
+    BEGIN
+        INSERT INTO last_update (table_name, last_updated)
+        VALUES ('circuits', GETDATE());
+    END
+END;
+

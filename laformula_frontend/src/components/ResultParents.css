@@ -1,0 +1,48 @@
+.race-page {
+    display: flex;
+    justify-content: center;  /* Horizontally centers the race-parent */
+
+    height: 100vh;          
+    width: 100vw;
+    background-color: #333; /* Optional: Set a background color */
+    margin: 0;                /* Remove any default margin */
+    padding: 0;               /* Remove any default padding */
+    box-sizing: border-box;    /* Include padding and border in element's width/height */
+}
+
+.race-parent {
+    margin-bottom: 10px;
+    border: 5px solid #ccc;
+    width: 70%;
+    height: 10%;
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;    
+}
+
+.race-bar {
+    display: flex;
+    width: 100%;
+    height : 40px;
+    border: 3px solid #ccc;
+    justify-content: space-between;
+    padding: 0px;
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
+
+.driver-list {
+    width: 100%;
+    top: 100%;
+    border: 2px solid #ccc;
+    z-index: 1; /* Make sure the dropdown appears above other content */
+    position :absolute;
+    max-height: 200px; /* Limits the dropdown height */
+    background-color: #333;
+    padding: 0px;
+    
+    overflow-y: auto; /* Adds scroll if the content exceeds the max height */
+}

@@ -1,0 +1,12 @@
+.driver-child {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 5px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.driver-child span {
+    color: white;
+    margin-right: 15px;
+}
