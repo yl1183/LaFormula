@@ -1,0 +1,62 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+*.env
+!.env.example
+
+# === Node / Frontend ===
+node_modules/
+f1_dashboard/frontend/dist/
+f1_dashboard/frontend/.vite/
+.npm-global/
+
+# === Database — keep SQL dump, not the binary ===
+*.db
+*.sqlite
+*.sqlite3
+# but DO track the portable SQL dump
+!f1_dashboard/backend/data/f1trading_dump.sql
+
+# === Large raw data (use Git LFS or store externally) ===
+f1_trading/data/raw/kalshi_all.json
+
+# === FastF1 telemetry cache (re-downloadable, 346 MB) ===
+.cache/
+
+# === Secrets & local config ===
+.env
+*.pem
+*.key
+kalshi_key.pem
+
+# === OS / Editor ===
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# === Misc ===
+*.log
+*.tar.gz
+*.tar.zst
+*.zip
+
+# === VM-specific / tooling (not part of the project) ===
+.npm/
+.config/
+.credentials/
+.fly/
+.npm-global/
+.local/

@@ -1,0 +1,579 @@
+year,round,circuit,country,event_name,driver,team,country_code,qual_pos,q1_time,q2_time,q3_time,best_q_time
+2019,1,Melbourne,Australia,Australian Grand Prix,HAM,Mercedes,,1,82.043,81.014,80.486,80.486
+2019,1,Melbourne,Australia,Australian Grand Prix,BOT,Mercedes,,2,82.367,81.193,80.598,80.598
+2019,1,Melbourne,Australia,Australian Grand Prix,VET,Ferrari,,3,82.885,81.912,81.19,81.19
+2019,1,Melbourne,Australia,Australian Grand Prix,VER,Red Bull Racing,,4,82.876,81.678,81.32,81.32
+2019,1,Melbourne,Australia,Australian Grand Prix,LEC,Ferrari,,5,82.017,81.739,81.442,81.442
+2019,1,Melbourne,Australia,Australian Grand Prix,GRO,Haas F1 Team,,6,82.959,81.87,81.826,81.826
+2019,1,Melbourne,Australia,Australian Grand Prix,MAG,Haas F1 Team,,7,82.519,82.221,82.099,82.099
+2019,1,Melbourne,Australia,Australian Grand Prix,NOR,McLaren,,8,82.702,82.423,82.304,82.304
+2019,1,Melbourne,Australia,Australian Grand Prix,RAI,Alfa Romeo Racing,,9,82.966,82.349,82.314,82.314
+2019,1,Melbourne,Australia,Australian Grand Prix,PER,Racing Point,,10,82.908,82.532,82.781,82.781
+2019,1,Melbourne,Australia,Australian Grand Prix,HUL,Renault,,11,82.54,82.562,,82.562
+2019,1,Melbourne,Australia,Australian Grand Prix,RIC,Renault,,12,82.921,82.57,,82.57
+2019,1,Melbourne,Australia,Australian Grand Prix,ALB,Toro Rosso,,13,82.757,82.636,,82.636
+2019,1,Melbourne,Australia,Australian Grand Prix,GIO,Alfa Romeo Racing,,14,82.431,82.714,,82.714
+2019,1,Melbourne,Australia,Australian Grand Prix,KVY,Toro Rosso,,15,82.511,82.774,,82.774
+2019,1,Melbourne,Australia,Australian Grand Prix,STR,Racing Point,,16,83.017,,,83.017
+2019,1,Melbourne,Australia,Australian Grand Prix,GAS,Red Bull Racing,,17,83.02,,,83.02
+2019,1,Melbourne,Australia,Australian Grand Prix,SAI,McLaren,,18,83.084,,,83.084
+2019,1,Melbourne,Australia,Australian Grand Prix,RUS,Williams,,19,84.36,,,84.36
+2019,1,Melbourne,Australia,Australian Grand Prix,KUB,Williams,,20,86.067,,,86.067
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,LEC,Ferrari,,1,88.495,88.046,87.866,87.866
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,VET,Ferrari,,2,88.733,88.356,88.16,88.16
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,HAM,Mercedes,,3,89.262,88.578,88.19,88.19
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,BOT,Mercedes,,4,89.498,88.83,88.256,88.256
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,VER,Red Bull Racing,,5,89.579,89.109,88.752,88.752
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,MAG,Haas F1 Team,,6,89.532,89.017,88.757,88.757
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,SAI,McLaren,,7,89.528,89.055,88.813,88.813
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,GRO,Haas F1 Team,,8,89.688,89.249,89.015,89.015
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,RAI,Alfa Romeo Racing,,9,89.959,89.471,89.022,89.022
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,NOR,McLaren,,10,89.381,89.258,89.043,89.043
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,RIC,Renault,,11,89.859,89.488,,89.488
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,ALB,Toro Rosso,,12,89.514,89.513,,89.513
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,GAS,Red Bull Racing,,13,89.9,89.526,,89.526
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,PER,Racing Point,,14,89.893,89.756,,89.756
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,KVY,Toro Rosso,,15,89.876,89.854,,89.854
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,GIO,Alfa Romeo Racing,,16,90.026,,,90.026
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,HUL,Renault,,17,90.034,,,90.034
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,STR,Racing Point,,18,90.217,,,90.217
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,RUS,Williams,,19,91.759,,,91.759
+2019,2,Sakhir,Bahrain,Bahrain Grand Prix,KUB,Williams,,20,91.799,,,91.799
+2019,3,Shanghai,China,Chinese Grand Prix,BOT,Mercedes,,1,92.658,91.728,91.547,91.547
+2019,3,Shanghai,China,Chinese Grand Prix,HAM,Mercedes,,2,93.115,91.637,91.57,91.57
+2019,3,Shanghai,China,Chinese Grand Prix,VET,Ferrari,,3,93.557,92.232,91.848,91.848
+2019,3,Shanghai,China,Chinese Grand Prix,LEC,Ferrari,,4,92.712,92.324,91.865,91.865
+2019,3,Shanghai,China,Chinese Grand Prix,VER,Red Bull Racing,,5,93.274,92.369,92.089,92.089
+2019,3,Shanghai,China,Chinese Grand Prix,GAS,Red Bull Racing,,6,93.863,92.948,92.93,92.93
+2019,3,Shanghai,China,Chinese Grand Prix,RIC,Renault,,7,93.709,93.214,92.958,92.958
+2019,3,Shanghai,China,Chinese Grand Prix,HUL,Renault,,8,93.644,93.968,92.962,92.962
+2019,3,Shanghai,China,Chinese Grand Prix,MAG,Haas F1 Team,,9,94.036,93.15,,93.15
+2019,3,Shanghai,China,Chinese Grand Prix,GRO,Haas F1 Team,,10,93.752,93.156,,93.156
+2019,3,Shanghai,China,Chinese Grand Prix,KVY,Toro Rosso,,11,93.783,93.236,,93.236
+2019,3,Shanghai,China,Chinese Grand Prix,PER,Racing Point,,12,94.026,93.299,,93.299
+2019,3,Shanghai,China,Chinese Grand Prix,RAI,Alfa Romeo Racing,,13,94.125,93.419,,93.419
+2019,3,Shanghai,China,Chinese Grand Prix,SAI,McLaren,,14,93.686,93.523,,93.523
+2019,3,Shanghai,China,Chinese Grand Prix,NOR,McLaren,,15,94.148,93.967,,93.967
+2019,3,Shanghai,China,Chinese Grand Prix,STR,Racing Point,,16,94.292,,,94.292
+2019,3,Shanghai,China,Chinese Grand Prix,RUS,Williams,,17,95.253,,,95.253
+2019,3,Shanghai,China,Chinese Grand Prix,KUB,Williams,,18,95.281,,,95.281
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,BOT,Mercedes,,1,102.026,101.5,100.495,100.495
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,HAM,Mercedes,,2,101.614,101.58,100.554,100.554
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,VET,Ferrari,,3,102.042,101.889,100.797,100.797
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,VER,Red Bull Racing,,4,101.727,101.388,101.069,101.069
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,PER,Racing Point,,5,102.249,101.87,101.593,101.593
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,KVY,Toro Rosso,,6,102.324,102.221,101.681,101.681
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,NOR,McLaren,,7,102.371,102.084,101.886,101.886
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,GIO,Alfa Romeo Racing,,8,102.14,102.381,102.424,102.424
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,LEC,Ferrari,,9,101.426,101.995,,101.995
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,SAI,McLaren,,10,101.936,102.398,,102.398
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,RIC,Renault,,11,102.486,102.477,,102.477
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,ALB,Toro Rosso,,12,102.154,102.494,,102.494
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,MAG,Haas F1 Team,,13,102.382,102.699,,102.699
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,STR,Racing Point,,14,102.63,,,102.63
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,GRO,Haas F1 Team,,15,103.407,,,103.407
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,HUL,Renault,,16,103.427,,,103.427
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,RUS,Williams,,17,105.062,,,105.062
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,KUB,Williams,,18,105.455,,,105.455
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,RAI,Alfa Romeo Racing,,19,,,,
+2019,4,Baku,Azerbaijan,Azerbaijan Grand Prix,GAS,Red Bull Racing,,20,,,,
+2019,5,Barcelona,Spain,Spanish Grand Prix,BOT,Mercedes,,1,76.979,75.924,75.406,75.406
+2019,5,Barcelona,Spain,Spanish Grand Prix,HAM,Mercedes,,2,77.292,76.038,76.04,76.04
+2019,5,Barcelona,Spain,Spanish Grand Prix,VET,Ferrari,,3,77.425,76.667,76.272,76.272
+2019,5,Barcelona,Spain,Spanish Grand Prix,VER,Red Bull Racing,,4,77.244,76.726,76.357,76.357
+2019,5,Barcelona,Spain,Spanish Grand Prix,LEC,Ferrari,,5,77.388,76.714,76.588,76.588
+2019,5,Barcelona,Spain,Spanish Grand Prix,GAS,Red Bull Racing,,6,77.862,76.932,76.708,76.708
+2019,5,Barcelona,Spain,Spanish Grand Prix,GRO,Haas F1 Team,,7,78.042,77.066,76.911,76.911
+2019,5,Barcelona,Spain,Spanish Grand Prix,MAG,Haas F1 Team,,8,77.669,77.272,76.922,76.922
+2019,5,Barcelona,Spain,Spanish Grand Prix,KVY,Toro Rosso,,9,77.914,77.243,77.573,77.573
+2019,5,Barcelona,Spain,Spanish Grand Prix,RIC,Renault,,10,78.385,77.299,78.106,78.106
+2019,5,Barcelona,Spain,Spanish Grand Prix,NOR,McLaren,,11,77.611,77.338,,77.338
+2019,5,Barcelona,Spain,Spanish Grand Prix,ALB,Toro Rosso,,12,77.796,77.445,,77.445
+2019,5,Barcelona,Spain,Spanish Grand Prix,SAI,McLaren,,13,77.76,77.599,,77.599
+2019,5,Barcelona,Spain,Spanish Grand Prix,RAI,Alfa Romeo Racing,,14,78.132,77.788,,77.788
+2019,5,Barcelona,Spain,Spanish Grand Prix,PER,Racing Point,,15,78.286,77.886,,77.886
+2019,5,Barcelona,Spain,Spanish Grand Prix,HUL,Renault,,16,78.404,,,78.404
+2019,5,Barcelona,Spain,Spanish Grand Prix,STR,Racing Point,,17,78.471,,,78.471
+2019,5,Barcelona,Spain,Spanish Grand Prix,GIO,Alfa Romeo Racing,,18,78.664,,,78.664
+2019,5,Barcelona,Spain,Spanish Grand Prix,RUS,Williams,,19,79.072,,,79.072
+2019,5,Barcelona,Spain,Spanish Grand Prix,KUB,Williams,,20,80.254,,,80.254
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,HAM,Mercedes,,1,71.542,70.835,70.166,70.166
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,BOT,Mercedes,,2,71.562,70.701,70.252,70.252
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,VER,Red Bull Racing,,3,71.597,70.618,70.641,70.641
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,VET,Ferrari,,4,71.434,71.227,70.947,70.947
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,GAS,Red Bull Racing,,5,71.74,71.457,71.041,71.041
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,MAG,Haas F1 Team,,6,71.865,71.363,71.109,71.109
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,RIC,Renault,,7,71.767,71.543,71.218,71.218
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,KVY,Toro Rosso,,8,71.602,71.412,71.271,71.271
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,SAI,McLaren,,9,71.872,71.608,71.417,71.417
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,ALB,Toro Rosso,,10,72.007,71.429,71.653,71.653
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,HUL,Renault,,11,72.097,71.67,,71.67
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,NOR,McLaren,,12,71.845,71.724,,71.724
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,GRO,Haas F1 Team,,13,71.837,72.027,,72.027
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,RAI,Alfa Romeo Racing,,14,71.993,72.115,,72.115
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,GIO,Alfa Romeo Racing,,15,71.976,72.185,,72.185
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,LEC,Ferrari,,16,72.149,,,72.149
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,PER,Racing Point,,17,72.233,,,72.233
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,STR,Racing Point,,18,72.846,,,72.846
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,RUS,Williams,,19,73.477,,,73.477
+2019,6,Monte Carlo,Monaco,Monaco Grand Prix,KUB,Williams,,20,73.751,,,73.751
+2019,7,Montréal,Canada,Canadian Grand Prix,VET,Ferrari,,1,71.2,71.142,70.24,70.24
+2019,7,Montréal,Canada,Canadian Grand Prix,HAM,Mercedes,,2,71.518,71.01,70.446,70.446
+2019,7,Montréal,Canada,Canadian Grand Prix,LEC,Ferrari,,3,71.214,71.205,70.92,70.92
+2019,7,Montréal,Canada,Canadian Grand Prix,RIC,Renault,,4,71.837,71.532,71.071,71.071
+2019,7,Montréal,Canada,Canadian Grand Prix,GAS,Red Bull Racing,,5,72.023,71.196,71.079,71.079
+2019,7,Montréal,Canada,Canadian Grand Prix,BOT,Mercedes,,6,71.229,71.095,71.101,71.101
+2019,7,Montréal,Canada,Canadian Grand Prix,HUL,Renault,,7,71.72,71.553,71.324,71.324
+2019,7,Montréal,Canada,Canadian Grand Prix,NOR,McLaren,,8,71.78,71.735,71.863,71.863
+2019,7,Montréal,Canada,Canadian Grand Prix,SAI,McLaren,,9,71.75,71.572,73.981,73.981
+2019,7,Montréal,Canada,Canadian Grand Prix,MAG,Haas F1 Team,,10,72.107,71.786,,71.786
+2019,7,Montréal,Canada,Canadian Grand Prix,VER,Red Bull Racing,,11,71.619,71.8,,71.8
+2019,7,Montréal,Canada,Canadian Grand Prix,KVY,Toro Rosso,,12,71.965,71.921,,71.921
+2019,7,Montréal,Canada,Canadian Grand Prix,GIO,Alfa Romeo Racing,,13,72.122,72.136,,72.136
+2019,7,Montréal,Canada,Canadian Grand Prix,ALB,Toro Rosso,,14,72.02,72.193,,72.193
+2019,7,Montréal,Canada,Canadian Grand Prix,GRO,Haas F1 Team,,15,72.109,,,72.109
+2019,7,Montréal,Canada,Canadian Grand Prix,PER,Racing Point,,16,72.197,,,72.197
+2019,7,Montréal,Canada,Canadian Grand Prix,RAI,Alfa Romeo Racing,,17,72.23,,,72.23
+2019,7,Montréal,Canada,Canadian Grand Prix,STR,Racing Point,,18,72.266,,,72.266
+2019,7,Montréal,Canada,Canadian Grand Prix,RUS,Williams,,19,73.617,,,73.617
+2019,7,Montréal,Canada,Canadian Grand Prix,KUB,Williams,,20,74.393,,,74.393
+2019,8,Le Castellet,France,French Grand Prix,HAM,Mercedes,,1,90.609,89.52,88.319,88.319
+2019,8,Le Castellet,France,French Grand Prix,BOT,Mercedes,,2,90.55,89.437,88.605,88.605
+2019,8,Le Castellet,France,French Grand Prix,LEC,Ferrari,,3,90.647,89.699,88.965,88.965
+2019,8,Le Castellet,France,French Grand Prix,VER,Red Bull Racing,,4,91.327,90.099,89.409,89.409
+2019,8,Le Castellet,France,French Grand Prix,NOR,McLaren,,5,90.989,90.019,89.418,89.418
+2019,8,Le Castellet,France,French Grand Prix,SAI,McLaren,,6,91.073,90.319,89.522,89.522
+2019,8,Le Castellet,France,French Grand Prix,VET,Ferrari,,7,91.075,89.506,89.799,89.799
+2019,8,Le Castellet,France,French Grand Prix,RIC,Renault,,8,90.954,90.369,89.918,89.918
+2019,8,Le Castellet,France,French Grand Prix,GAS,Red Bull Racing,,9,91.152,90.421,90.184,90.184
+2019,8,Le Castellet,France,French Grand Prix,GIO,Alfa Romeo Racing,,10,91.18,90.408,93.42,93.42
+2019,8,Le Castellet,France,French Grand Prix,ALB,Toro Rosso,,11,91.445,90.461,,90.461
+2019,8,Le Castellet,France,French Grand Prix,RAI,Alfa Romeo Racing,,12,90.972,90.533,,90.533
+2019,8,Le Castellet,France,French Grand Prix,HUL,Renault,,13,90.865,90.544,,90.544
+2019,8,Le Castellet,France,French Grand Prix,PER,Racing Point,,14,90.964,90.738,,90.738
+2019,8,Le Castellet,France,French Grand Prix,MAG,Haas F1 Team,,15,91.166,91.44,,91.44
+2019,8,Le Castellet,France,French Grand Prix,KVY,Toro Rosso,,16,91.564,,,91.564
+2019,8,Le Castellet,France,French Grand Prix,GRO,Haas F1 Team,,17,91.626,,,91.626
+2019,8,Le Castellet,France,French Grand Prix,STR,Racing Point,,18,91.726,,,91.726
+2019,8,Le Castellet,France,French Grand Prix,RUS,Williams,,19,92.789,,,92.789
+2019,8,Le Castellet,France,French Grand Prix,KUB,Williams,,20,93.205,,,93.205
+2019,9,Spielberg,Austria,Austrian Grand Prix,LEC,Ferrari,,1,64.138,63.378,63.003,63.003
+2019,9,Spielberg,Austria,Austrian Grand Prix,HAM,Mercedes,,2,63.818,63.803,63.262,63.262
+2019,9,Spielberg,Austria,Austrian Grand Prix,VER,Red Bull Racing,,3,63.807,63.835,63.439,63.439
+2019,9,Spielberg,Austria,Austrian Grand Prix,BOT,Mercedes,,4,64.084,63.863,63.537,63.537
+2019,9,Spielberg,Austria,Austrian Grand Prix,MAG,Haas F1 Team,,5,64.778,64.466,64.072,64.072
+2019,9,Spielberg,Austria,Austrian Grand Prix,NOR,McLaren,,6,64.361,64.211,64.099,64.099
+2019,9,Spielberg,Austria,Austrian Grand Prix,RAI,Alfa Romeo Racing,,7,64.615,64.056,64.166,64.166
+2019,9,Spielberg,Austria,Austrian Grand Prix,GIO,Alfa Romeo Racing,,8,64.45,64.194,64.179,64.179
+2019,9,Spielberg,Austria,Austrian Grand Prix,GAS,Red Bull Racing,,9,64.412,63.988,64.199,64.199
+2019,9,Spielberg,Austria,Austrian Grand Prix,VET,Ferrari,,10,64.43,63.667,,63.667
+2019,9,Spielberg,Austria,Austrian Grand Prix,GRO,Haas F1 Team,,11,64.552,64.49,,64.49
+2019,9,Spielberg,Austria,Austrian Grand Prix,HUL,Renault,,12,64.733,64.516,,64.516
+2019,9,Spielberg,Austria,Austrian Grand Prix,ALB,Toro Rosso,,13,64.708,64.665,,64.665
+2019,9,Spielberg,Austria,Austrian Grand Prix,RIC,Renault,,14,64.647,64.79,,64.79
+2019,9,Spielberg,Austria,Austrian Grand Prix,SAI,McLaren,,15,64.453,73.601,,73.601
+2019,9,Spielberg,Austria,Austrian Grand Prix,PER,Racing Point,,16,64.789,,,64.789
+2019,9,Spielberg,Austria,Austrian Grand Prix,STR,Racing Point,,17,64.832,,,64.832
+2019,9,Spielberg,Austria,Austrian Grand Prix,KVY,Toro Rosso,,18,65.324,,,65.324
+2019,9,Spielberg,Austria,Austrian Grand Prix,RUS,Williams,,19,65.904,,,65.904
+2019,9,Spielberg,Austria,Austrian Grand Prix,KUB,Williams,,20,66.206,,,66.206
+2019,10,Silverstone,Great Britain,British Grand Prix,BOT,Mercedes,,1,85.75,85.672,85.093,85.093
+2019,10,Silverstone,Great Britain,British Grand Prix,HAM,Mercedes,,2,85.513,85.84,85.099,85.099
+2019,10,Silverstone,Great Britain,British Grand Prix,LEC,Ferrari,,3,85.533,85.546,85.172,85.172
+2019,10,Silverstone,Great Britain,British Grand Prix,VER,Red Bull Racing,,4,85.7,85.848,85.276,85.276
+2019,10,Silverstone,Great Britain,British Grand Prix,GAS,Red Bull Racing,,5,86.273,86.038,85.59,85.59
+2019,10,Silverstone,Great Britain,British Grand Prix,VET,Ferrari,,6,85.898,86.023,85.787,85.787
+2019,10,Silverstone,Great Britain,British Grand Prix,RIC,Renault,,7,86.428,86.283,86.182,86.182
+2019,10,Silverstone,Great Britain,British Grand Prix,NOR,McLaren,,8,86.079,86.385,86.224,86.224
+2019,10,Silverstone,Great Britain,British Grand Prix,ALB,Toro Rosso,,9,86.482,86.403,86.345,86.345
+2019,10,Silverstone,Great Britain,British Grand Prix,HUL,Renault,,10,86.568,86.397,86.386,86.386
+2019,10,Silverstone,Great Britain,British Grand Prix,GIO,Alfa Romeo Racing,,11,86.449,86.519,,86.519
+2019,10,Silverstone,Great Britain,British Grand Prix,RAI,Alfa Romeo Racing,,12,86.558,86.546,,86.546
+2019,10,Silverstone,Great Britain,British Grand Prix,SAI,McLaren,,13,86.203,86.578,,86.578
+2019,10,Silverstone,Great Britain,British Grand Prix,GRO,Haas F1 Team,,14,86.347,86.757,,86.757
+2019,10,Silverstone,Great Britain,British Grand Prix,PER,Racing Point,,15,86.649,86.928,,86.928
+2019,10,Silverstone,Great Britain,British Grand Prix,MAG,Haas F1 Team,,16,86.662,,,86.662
+2019,10,Silverstone,Great Britain,British Grand Prix,KVY,Toro Rosso,,17,86.721,,,86.721
+2019,10,Silverstone,Great Britain,British Grand Prix,STR,Racing Point,,18,86.762,,,86.762
+2019,10,Silverstone,Great Britain,British Grand Prix,RUS,Williams,,19,87.789,,,87.789
+2019,10,Silverstone,Great Britain,British Grand Prix,KUB,Williams,,20,88.257,,,88.257
+2019,11,Hockenheim,Germany,German Grand Prix,HAM,Mercedes,,1,72.852,72.149,71.767,71.767
+2019,11,Hockenheim,Germany,German Grand Prix,VER,Red Bull Racing,,2,72.593,72.427,72.113,72.113
+2019,11,Hockenheim,Germany,German Grand Prix,BOT,Mercedes,,3,73.075,72.424,72.129,72.129
+2019,11,Hockenheim,Germany,German Grand Prix,GAS,Red Bull Racing,,4,72.991,72.385,72.522,72.522
+2019,11,Hockenheim,Germany,German Grand Prix,RAI,Alfa Romeo Racing,,5,73.066,72.519,72.538,72.538
+2019,11,Hockenheim,Germany,German Grand Prix,GRO,Haas F1 Team,,6,73.146,72.769,72.851,72.851
+2019,11,Hockenheim,Germany,German Grand Prix,SAI,McLaren,,7,73.221,72.632,72.897,72.897
+2019,11,Hockenheim,Germany,German Grand Prix,PER,Racing Point,,8,73.194,72.776,73.065,73.065
+2019,11,Hockenheim,Germany,German Grand Prix,HUL,Renault,,9,73.186,72.766,73.126,73.126
+2019,11,Hockenheim,Germany,German Grand Prix,LEC,Ferrari,,10,72.229,72.344,,72.344
+2019,11,Hockenheim,Germany,German Grand Prix,GIO,Alfa Romeo Racing,,11,73.17,72.786,,72.786
+2019,11,Hockenheim,Germany,German Grand Prix,MAG,Haas F1 Team,,12,73.103,72.789,,72.789
+2019,11,Hockenheim,Germany,German Grand Prix,RIC,Renault,,13,73.131,72.799,,72.799
+2019,11,Hockenheim,Germany,German Grand Prix,KVY,Toro Rosso,,14,73.278,73.135,,73.135
+2019,11,Hockenheim,Germany,German Grand Prix,STR,Racing Point,,15,73.256,73.45,,73.45
+2019,11,Hockenheim,Germany,German Grand Prix,NOR,McLaren,,16,73.333,,,73.333
+2019,11,Hockenheim,Germany,German Grand Prix,ALB,Toro Rosso,,17,73.461,,,73.461
+2019,11,Hockenheim,Germany,German Grand Prix,RUS,Williams,,18,74.721,,,74.721
+2019,11,Hockenheim,Germany,German Grand Prix,KUB,Williams,,19,74.839,,,74.839
+2019,11,Hockenheim,Germany,German Grand Prix,VET,Ferrari,,20,,,,
+2019,12,Budapest,Hungary,Hungarian Grand Prix,VER,Red Bull Racing,,1,75.817,75.573,74.572,74.572
+2019,12,Budapest,Hungary,Hungarian Grand Prix,BOT,Mercedes,,2,76.078,75.669,74.59,74.59
+2019,12,Budapest,Hungary,Hungarian Grand Prix,HAM,Mercedes,,3,76.068,75.548,74.769,74.769
+2019,12,Budapest,Hungary,Hungarian Grand Prix,LEC,Ferrari,,4,76.337,75.792,75.043,75.043
+2019,12,Budapest,Hungary,Hungarian Grand Prix,VET,Ferrari,,5,76.452,75.885,75.071,75.071
+2019,12,Budapest,Hungary,Hungarian Grand Prix,GAS,Red Bull Racing,,6,76.716,76.393,75.45,75.45
+2019,12,Budapest,Hungary,Hungarian Grand Prix,NOR,McLaren,,7,76.697,76.06,75.8,75.8
+2019,12,Budapest,Hungary,Hungarian Grand Prix,SAI,McLaren,,8,76.493,76.308,75.852,75.852
+2019,12,Budapest,Hungary,Hungarian Grand Prix,GRO,Haas F1 Team,,9,76.978,76.319,76.013,76.013
+2019,12,Budapest,Hungary,Hungarian Grand Prix,RAI,Alfa Romeo Racing,,10,76.506,76.518,76.041,76.041
+2019,12,Budapest,Hungary,Hungarian Grand Prix,HUL,Renault,,11,76.79,76.565,,76.565
+2019,12,Budapest,Hungary,Hungarian Grand Prix,ALB,Toro Rosso,,12,76.912,76.687,,76.687
+2019,12,Budapest,Hungary,Hungarian Grand Prix,KVY,Toro Rosso,,13,76.75,76.692,,76.692
+2019,12,Budapest,Hungary,Hungarian Grand Prix,GIO,Alfa Romeo Racing,,14,76.894,76.804,,76.804
+2019,12,Budapest,Hungary,Hungarian Grand Prix,MAG,Haas F1 Team,,15,76.122,77.081,,77.081
+2019,12,Budapest,Hungary,Hungarian Grand Prix,RUS,Williams,,16,77.031,,,77.031
+2019,12,Budapest,Hungary,Hungarian Grand Prix,PER,Racing Point,,17,77.109,,,77.109
+2019,12,Budapest,Hungary,Hungarian Grand Prix,RIC,Renault,,18,77.257,,,77.257
+2019,12,Budapest,Hungary,Hungarian Grand Prix,STR,Racing Point,,19,77.542,,,77.542
+2019,12,Budapest,Hungary,Hungarian Grand Prix,KUB,Williams,,20,78.324,,,78.324
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,LEC,Ferrari,,1,103.587,102.938,102.519,102.519
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,VET,Ferrari,,2,104.109,103.037,103.267,103.267
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,HAM,Mercedes,,3,105.26,103.592,103.282,103.282
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,BOT,Mercedes,,4,105.141,103.98,103.415,103.415
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,VER,Red Bull Racing,,5,104.622,104.132,103.69,103.69
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,RIC,Renault,,6,105.56,104.103,104.257,104.257
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,HUL,Renault,,7,105.899,104.549,104.542,104.542
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,RAI,Alfa Romeo Racing,,8,105.842,104.14,104.557,104.557
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,PER,Racing Point,,9,105.732,104.707,104.706,104.706
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,MAG,Haas F1 Team,,10,105.839,104.738,105.086,105.086
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,GRO,Haas F1 Team,,11,105.694,104.797,,104.797
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,NOR,McLaren,,12,106.154,104.847,,104.847
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,STR,Racing Point,,13,106.0,105.047,,105.047
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,ALB,Red Bull Racing,,14,105.528,105.799,,105.799
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,GIO,Alfa Romeo Racing,,15,105.637,,,105.637
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,GAS,Toro Rosso,,16,106.435,,,106.435
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,SAI,McLaren,,17,106.507,,,106.507
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,KVY,Toro Rosso,,18,106.518,,,106.518
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,RUS,Williams,,19,107.548,,,107.548
+2019,13,Spa-Francorchamps,Belgium,Belgian Grand Prix,KUB,Williams,,20,,,,
+2019,14,Monza,Italy,Italian Grand Prix,LEC,Ferrari,,1,80.126,79.553,79.307,79.307
+2019,14,Monza,Italy,Italian Grand Prix,HAM,Mercedes,,2,80.272,79.464,79.346,79.346
+2019,14,Monza,Italy,Italian Grand Prix,BOT,Mercedes,,3,80.156,80.018,79.354,79.354
+2019,14,Monza,Italy,Italian Grand Prix,VET,Ferrari,,4,80.378,79.715,79.457,79.457
+2019,14,Monza,Italy,Italian Grand Prix,RIC,Renault,,5,80.374,79.833,79.839,79.839
+2019,14,Monza,Italy,Italian Grand Prix,HUL,Renault,,6,80.155,80.275,80.049,80.049
+2019,14,Monza,Italy,Italian Grand Prix,SAI,McLaren,,7,80.413,80.202,80.455,80.455
+2019,14,Monza,Italy,Italian Grand Prix,ALB,Red Bull Racing,,8,80.382,80.021,,80.021
+2019,14,Monza,Italy,Italian Grand Prix,STR,Racing Point,,9,80.643,80.498,,80.498
+2019,14,Monza,Italy,Italian Grand Prix,RAI,Alfa Romeo Racing,,10,80.634,80.515,,80.515
+2019,14,Monza,Italy,Italian Grand Prix,GIO,Alfa Romeo Racing,,11,80.657,80.517,,80.517
+2019,14,Monza,Italy,Italian Grand Prix,MAG,Haas F1 Team,,12,80.616,80.615,,80.615
+2019,14,Monza,Italy,Italian Grand Prix,KVY,Toro Rosso,,13,80.723,80.63,,80.63
+2019,14,Monza,Italy,Italian Grand Prix,NOR,McLaren,,14,80.646,81.068,,81.068
+2019,14,Monza,Italy,Italian Grand Prix,GAS,Toro Rosso,,15,80.508,81.125,,81.125
+2019,14,Monza,Italy,Italian Grand Prix,GRO,Haas F1 Team,,16,80.784,,,80.784
+2019,14,Monza,Italy,Italian Grand Prix,PER,Racing Point,,17,81.291,,,81.291
+2019,14,Monza,Italy,Italian Grand Prix,RUS,Williams,,18,81.8,,,81.8
+2019,14,Monza,Italy,Italian Grand Prix,KUB,Williams,,19,82.356,,,82.356
+2019,14,Monza,Italy,Italian Grand Prix,VER,Red Bull Racing,,20,,,,
+2019,15,Singapore,Singapore,Singapore Grand Prix,LEC,Ferrari,,1,98.014,96.65,96.217,96.217
+2019,15,Singapore,Singapore,Singapore Grand Prix,HAM,Mercedes,,2,97.565,96.933,96.408,96.408
+2019,15,Singapore,Singapore,Singapore Grand Prix,VET,Ferrari,,3,98.374,96.72,96.437,96.437
+2019,15,Singapore,Singapore,Singapore Grand Prix,VER,Red Bull Racing,,4,98.54,97.089,96.813,96.813
+2019,15,Singapore,Singapore,Singapore Grand Prix,BOT,Mercedes,,5,97.317,97.142,97.146,97.146
+2019,15,Singapore,Singapore,Singapore Grand Prix,ALB,Red Bull Racing,,6,99.106,97.865,97.411,97.411
+2019,15,Singapore,Singapore,Singapore Grand Prix,SAI,McLaren,,7,98.882,97.982,97.818,97.818
+2019,15,Singapore,Singapore,Singapore Grand Prix,HUL,Renault,,8,99.001,98.58,98.264,98.264
+2019,15,Singapore,Singapore,Singapore Grand Prix,NOR,McLaren,,9,98.606,97.572,98.329,98.329
+2019,15,Singapore,Singapore,Singapore Grand Prix,PER,Racing Point,,10,99.909,98.52,,98.52
+2019,15,Singapore,Singapore,Singapore Grand Prix,GIO,Alfa Romeo Racing,,11,99.272,98.697,,98.697
+2019,15,Singapore,Singapore,Singapore Grand Prix,GAS,Toro Rosso,,12,99.085,98.699,,98.699
+2019,15,Singapore,Singapore,Singapore Grand Prix,RAI,Alfa Romeo Racing,,13,99.454,98.858,,98.858
+2019,15,Singapore,Singapore,Singapore Grand Prix,MAG,Haas F1 Team,,14,99.942,99.65,,99.65
+2019,15,Singapore,Singapore,Singapore Grand Prix,KVY,Toro Rosso,,15,99.957,,,99.957
+2019,15,Singapore,Singapore,Singapore Grand Prix,STR,Racing Point,,16,99.979,,,99.979
+2019,15,Singapore,Singapore,Singapore Grand Prix,GRO,Haas F1 Team,,17,100.277,,,100.277
+2019,15,Singapore,Singapore,Singapore Grand Prix,RUS,Williams,,18,100.867,,,100.867
+2019,15,Singapore,Singapore,Singapore Grand Prix,KUB,Williams,,19,101.186,,,101.186
+2019,15,Singapore,Singapore,Singapore Grand Prix,RIC,Renault,,20,,,,
+2019,16,Sochi,Russia,Russian Grand Prix,LEC,Ferrari,,1,93.613,92.434,91.628,91.628
+2019,16,Sochi,Russia,Russian Grand Prix,HAM,Mercedes,,2,93.23,93.134,92.03,92.03
+2019,16,Sochi,Russia,Russian Grand Prix,VET,Ferrari,,3,93.032,92.536,92.053,92.053
+2019,16,Sochi,Russia,Russian Grand Prix,VER,Red Bull Racing,,4,93.368,92.634,92.31,92.31
+2019,16,Sochi,Russia,Russian Grand Prix,BOT,Mercedes,,5,93.413,93.281,92.632,92.632
+2019,16,Sochi,Russia,Russian Grand Prix,SAI,McLaren,,6,94.184,93.807,93.222,93.222
+2019,16,Sochi,Russia,Russian Grand Prix,HUL,Renault,,7,94.236,93.898,93.289,93.289
+2019,16,Sochi,Russia,Russian Grand Prix,NOR,McLaren,,8,94.201,93.725,93.301,93.301
+2019,16,Sochi,Russia,Russian Grand Prix,GRO,Haas F1 Team,,9,94.283,93.643,93.517,93.517
+2019,16,Sochi,Russia,Russian Grand Prix,RIC,Renault,,10,94.138,93.862,93.661,93.661
+2019,16,Sochi,Russia,Russian Grand Prix,GAS,Toro Rosso,,11,94.456,93.95,,93.95
+2019,16,Sochi,Russia,Russian Grand Prix,PER,Racing Point,,12,94.336,93.958,,93.958
+2019,16,Sochi,Russia,Russian Grand Prix,GIO,Alfa Romeo Racing,,13,94.755,94.037,,94.037
+2019,16,Sochi,Russia,Russian Grand Prix,MAG,Haas F1 Team,,14,93.889,94.082,,94.082
+2019,16,Sochi,Russia,Russian Grand Prix,STR,Racing Point,,15,94.287,94.233,,94.233
+2019,16,Sochi,Russia,Russian Grand Prix,RAI,Alfa Romeo Racing,,16,94.84,,,94.84
+2019,16,Sochi,Russia,Russian Grand Prix,RUS,Williams,,17,95.356,,,95.356
+2019,16,Sochi,Russia,Russian Grand Prix,KUB,Williams,,18,96.474,,,96.474
+2019,16,Sochi,Russia,Russian Grand Prix,ALB,Red Bull Racing,,19,99.197,,,99.197
+2019,16,Sochi,Russia,Russian Grand Prix,KVY,Toro Rosso,,20,99.544,,,99.544
+2019,17,Suzuka,Japan,Japanese Grand Prix,VET,Ferrari,,1,88.988,88.174,87.064,87.064
+2019,17,Suzuka,Japan,Japanese Grand Prix,LEC,Ferrari,,2,88.405,88.179,87.253,87.253
+2019,17,Suzuka,Japan,Japanese Grand Prix,BOT,Mercedes,,3,88.896,87.688,87.293,87.293
+2019,17,Suzuka,Japan,Japanese Grand Prix,HAM,Mercedes,,4,88.735,87.826,87.302,87.302
+2019,17,Suzuka,Japan,Japanese Grand Prix,VER,Red Bull Racing,,5,88.754,88.499,87.851,87.851
+2019,17,Suzuka,Japan,Japanese Grand Prix,ALB,Red Bull Racing,,6,89.351,88.156,87.851,87.851
+2019,17,Suzuka,Japan,Japanese Grand Prix,SAI,McLaren,,7,89.018,88.577,88.304,88.304
+2019,17,Suzuka,Japan,Japanese Grand Prix,NOR,McLaren,,8,88.873,88.571,88.464,88.464
+2019,17,Suzuka,Japan,Japanese Grand Prix,GAS,Toro Rosso,,9,89.411,88.779,88.836,88.836
+2019,17,Suzuka,Japan,Japanese Grand Prix,GRO,Haas F1 Team,,10,89.572,89.144,89.341,89.341
+2019,17,Suzuka,Japan,Japanese Grand Prix,GIO,Alfa Romeo Racing,,11,89.604,89.254,,89.254
+2019,17,Suzuka,Japan,Japanese Grand Prix,STR,Racing Point,,12,89.594,89.345,,89.345
+2019,17,Suzuka,Japan,Japanese Grand Prix,RAI,Alfa Romeo Racing,,13,89.636,89.358,,89.358
+2019,17,Suzuka,Japan,Japanese Grand Prix,KVY,Toro Rosso,,14,89.723,89.563,,89.563
+2019,17,Suzuka,Japan,Japanese Grand Prix,HUL,Renault,,15,89.619,90.112,,90.112
+2019,17,Suzuka,Japan,Japanese Grand Prix,RIC,Renault,,16,89.822,,,89.822
+2019,17,Suzuka,Japan,Japanese Grand Prix,PER,Racing Point,,17,90.344,,,90.344
+2019,17,Suzuka,Japan,Japanese Grand Prix,RUS,Williams,,18,90.364,,,90.364
+2019,17,Suzuka,Japan,Japanese Grand Prix,MAG,Haas F1 Team,,19,,,,
+2019,17,Suzuka,Japan,Japanese Grand Prix,KUB,Williams,,20,,,,
+2019,18,Mexico City,Mexico,Mexican Grand Prix,VER,Red Bull Racing,,1,75.949,76.136,74.758,74.758
+2019,18,Mexico City,Mexico,Mexican Grand Prix,LEC,Ferrari,,2,76.364,76.219,75.024,75.024
+2019,18,Mexico City,Mexico,Mexican Grand Prix,VET,Ferrari,,3,76.696,75.914,75.17,75.17
+2019,18,Mexico City,Mexico,Mexican Grand Prix,HAM,Mercedes,,4,76.424,75.721,75.262,75.262
+2019,18,Mexico City,Mexico,Mexican Grand Prix,ALB,Red Bull Racing,,5,76.175,76.574,75.336,75.336
+2019,18,Mexico City,Mexico,Mexican Grand Prix,BOT,Mercedes,,6,77.062,75.852,75.338,75.338
+2019,18,Mexico City,Mexico,Mexican Grand Prix,SAI,McLaren,,7,77.044,76.267,76.014,76.014
+2019,18,Mexico City,Mexico,Mexican Grand Prix,NOR,McLaren,,8,77.092,76.447,76.322,76.322
+2019,18,Mexico City,Mexico,Mexican Grand Prix,KVY,Toro Rosso,,9,77.041,76.657,76.469,76.469
+2019,18,Mexico City,Mexico,Mexican Grand Prix,GAS,Toro Rosso,,10,77.065,76.679,76.586,76.586
+2019,18,Mexico City,Mexico,Mexican Grand Prix,PER,Racing Point,,11,77.465,76.687,,76.687
+2019,18,Mexico City,Mexico,Mexican Grand Prix,HUL,Renault,,12,77.608,76.885,,76.885
+2019,18,Mexico City,Mexico,Mexican Grand Prix,RIC,Renault,,13,77.27,76.933,,76.933
+2019,18,Mexico City,Mexico,Mexican Grand Prix,RAI,Alfa Romeo Racing,,14,77.225,76.967,,76.967
+2019,18,Mexico City,Mexico,Mexican Grand Prix,GIO,Alfa Romeo Racing,,15,77.794,77.269,,77.269
+2019,18,Mexico City,Mexico,Mexican Grand Prix,STR,Racing Point,,16,78.065,,,78.065
+2019,18,Mexico City,Mexico,Mexican Grand Prix,MAG,Haas F1 Team,,17,78.436,,,78.436
+2019,18,Mexico City,Mexico,Mexican Grand Prix,GRO,Haas F1 Team,,18,78.599,,,78.599
+2019,18,Mexico City,Mexico,Mexican Grand Prix,RUS,Williams,,19,78.823,,,78.823
+2019,18,Mexico City,Mexico,Mexican Grand Prix,KUB,Williams,,20,80.179,,,80.179
+2019,19,Austin,United States,United States Grand Prix,BOT,Mercedes,,1,93.75,93.16,92.029,92.029
+2019,19,Austin,United States,United States Grand Prix,VET,Ferrari,,2,93.766,93.782,92.041,92.041
+2019,19,Austin,United States,United States Grand Prix,VER,Red Bull Racing,,3,93.549,93.12,92.096,92.096
+2019,19,Austin,United States,United States Grand Prix,LEC,Ferrari,,4,93.988,92.76,92.137,92.137
+2019,19,Austin,United States,United States Grand Prix,HAM,Mercedes,,5,93.454,93.045,92.321,92.321
+2019,19,Austin,United States,United States Grand Prix,ALB,Red Bull Racing,,6,93.984,92.898,92.548,92.548
+2019,19,Austin,United States,United States Grand Prix,SAI,McLaren,,7,93.916,93.422,92.847,92.847
+2019,19,Austin,United States,United States Grand Prix,NOR,McLaren,,8,93.353,93.316,93.175,93.175
+2019,19,Austin,United States,United States Grand Prix,RIC,Renault,,9,93.835,93.608,93.488,93.488
+2019,19,Austin,United States,United States Grand Prix,GAS,Toro Rosso,,10,93.556,93.715,93.601,93.601
+2019,19,Austin,United States,United States Grand Prix,HUL,Renault,,11,94.092,93.815,,93.815
+2019,19,Austin,United States,United States Grand Prix,MAG,Haas F1 Team,,12,93.812,93.979,,93.979
+2019,19,Austin,United States,United States Grand Prix,KVY,Toro Rosso,,13,94.138,93.989,,93.989
+2019,19,Austin,United States,United States Grand Prix,STR,Racing Point,,14,93.921,94.1,,94.1
+2019,19,Austin,United States,United States Grand Prix,GRO,Haas F1 Team,,15,94.161,94.158,,94.158
+2019,19,Austin,United States,United States Grand Prix,GIO,Alfa Romeo Racing,,16,94.226,,,94.226
+2019,19,Austin,United States,United States Grand Prix,RAI,Alfa Romeo Racing,,17,94.369,,,94.369
+2019,19,Austin,United States,United States Grand Prix,RUS,Williams,,18,95.372,,,95.372
+2019,19,Austin,United States,United States Grand Prix,PER,Racing Point,,19,95.808,,,95.808
+2019,19,Austin,United States,United States Grand Prix,KUB,Williams,,20,95.889,,,95.889
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,VER,Red Bull Racing,,1,68.242,67.503,67.508,67.508
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,VET,Ferrari,,2,68.556,68.05,67.631,67.631
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,HAM,Mercedes,,3,68.614,68.088,67.699,67.699
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,LEC,Ferrari,,4,68.496,67.888,67.728,67.728
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,BOT,Mercedes,,5,68.545,68.232,67.874,67.874
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,ALB,Red Bull Racing,,6,68.503,68.117,67.935,67.935
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,GAS,Toro Rosso,,7,68.909,68.77,68.837,68.837
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,GRO,Haas F1 Team,,8,69.197,68.705,68.854,68.854
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,RAI,Alfa Romeo Racing,,9,69.276,68.858,68.984,68.984
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,MAG,Haas F1 Team,,10,68.875,68.803,69.037,69.037
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,NOR,McLaren,,11,68.891,68.868,,68.868
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,RIC,Renault,,12,69.086,68.903,,68.903
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,GIO,Alfa Romeo Racing,,13,69.175,68.919,,68.919
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,HUL,Renault,,14,69.05,68.921,,68.921
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,PER,Racing Point,,15,69.288,69.035,,69.035
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,KVY,Toro Rosso,,16,69.32,,,69.32
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,STR,Racing Point,,17,69.536,,,69.536
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,RUS,Williams,,18,70.126,,,70.126
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,KUB,Williams,,19,70.614,,,70.614
+2019,20,São Paulo,Brazil,Brazilian Grand Prix,SAI,McLaren,,20,,,,
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,HAM,Mercedes,,1,95.851,95.634,94.779,94.779
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,BOT,Mercedes,,2,96.2,95.674,94.973,94.973
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,VER,Red Bull Racing,,3,96.39,96.275,95.139,95.139
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,LEC,Ferrari,,4,96.478,95.543,95.219,95.219
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,VET,Ferrari,,5,96.963,95.786,95.339,95.339
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,ALB,Red Bull Racing,,6,96.102,96.718,95.682,95.682
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,NOR,McLaren,,7,97.545,96.764,96.436,96.436
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,RIC,Renault,,8,97.106,96.785,96.456,96.456
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,SAI,McLaren,,9,97.358,96.308,96.459,96.459
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,HUL,Renault,,10,97.506,96.859,96.71,96.71
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,PER,Racing Point,,11,96.961,97.055,,97.055
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,GAS,Toro Rosso,,12,97.198,97.089,,97.089
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,STR,Racing Point,,13,97.528,97.103,,97.103
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,KVY,Toro Rosso,,14,97.683,97.141,,97.141
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,MAG,Haas F1 Team,,15,97.71,97.254,,97.254
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,GRO,Haas F1 Team,,16,98.051,,,98.051
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,GIO,Alfa Romeo Racing,,17,98.114,,,98.114
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,RAI,Alfa Romeo Racing,,18,98.383,,,98.383
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,RUS,Williams,,19,98.717,,,98.717
+2019,21,Yas Island,Abu Dhabi,Abu Dhabi Grand Prix,KUB,Williams,,20,99.236,,,99.236
+2020,1,Spielberg,Austria,Austrian Grand Prix,BOT,Mercedes,,1,64.111,63.015,62.939,62.939
+2020,1,Spielberg,Austria,Austrian Grand Prix,HAM,Mercedes,,2,64.198,63.096,62.951,62.951
+2020,1,Spielberg,Austria,Austrian Grand Prix,VER,Red Bull Racing,,3,64.024,64.0,63.477,63.477
+2020,1,Spielberg,Austria,Austrian Grand Prix,NOR,McLaren,,4,64.606,63.819,63.626,63.626
+2020,1,Spielberg,Austria,Austrian Grand Prix,ALB,Red Bull Racing,,5,64.661,63.746,63.868,63.868
+2020,1,Spielberg,Austria,Austrian Grand Prix,PER,Racing Point,,6,64.543,63.86,63.868,63.868
+2020,1,Spielberg,Austria,Austrian Grand Prix,LEC,Ferrari,,7,64.5,64.041,63.923,63.923
+2020,1,Spielberg,Austria,Austrian Grand Prix,SAI,McLaren,,8,64.537,63.971,63.971,63.971
+2020,1,Spielberg,Austria,Austrian Grand Prix,STR,Racing Point,,9,64.309,63.955,64.029,64.029
+2020,1,Spielberg,Austria,Austrian Grand Prix,RIC,Renault,,10,64.556,64.023,64.239,64.239
+2020,1,Spielberg,Austria,Austrian Grand Prix,VET,Ferrari,,11,64.554,64.206,,64.206
+2020,1,Spielberg,Austria,Austrian Grand Prix,GAS,AlphaTauri,,12,64.603,64.305,,64.305
+2020,1,Spielberg,Austria,Austrian Grand Prix,KVY,AlphaTauri,,13,65.031,64.431,,64.431
+2020,1,Spielberg,Austria,Austrian Grand Prix,OCO,Renault,,14,64.933,64.643,,64.643
+2020,1,Spielberg,Austria,Austrian Grand Prix,GRO,Haas F1 Team,,15,65.094,64.691,,64.691
+2020,1,Spielberg,Austria,Austrian Grand Prix,MAG,Haas F1 Team,,16,65.164,,,65.164
+2020,1,Spielberg,Austria,Austrian Grand Prix,RUS,Williams,,17,65.167,,,65.167
+2020,1,Spielberg,Austria,Austrian Grand Prix,GIO,Alfa Romeo Racing,,18,65.175,,,65.175
+2020,1,Spielberg,Austria,Austrian Grand Prix,RAI,Alfa Romeo Racing,,19,65.224,,,65.224
+2020,1,Spielberg,Austria,Austrian Grand Prix,LAT,Williams,,20,65.757,,,65.757
+2020,2,Spielberg,Austria,Styrian Grand Prix,HAM,Mercedes,,1,78.188,77.825,79.273,79.273
+2020,2,Spielberg,Austria,Styrian Grand Prix,VER,Red Bull Racing,,2,78.297,77.938,80.489,80.489
+2020,2,Spielberg,Austria,Styrian Grand Prix,SAI,McLaren,,3,78.59,78.836,80.671,80.671
+2020,2,Spielberg,Austria,Styrian Grand Prix,BOT,Mercedes,,4,78.791,78.657,80.701,80.701
+2020,2,Spielberg,Austria,Styrian Grand Prix,OCO,Renault,,5,79.687,78.764,80.922,80.922
+2020,2,Spielberg,Austria,Styrian Grand Prix,NOR,McLaren,,6,78.504,78.448,80.925,80.925
+2020,2,Spielberg,Austria,Styrian Grand Prix,ALB,Red Bull Racing,,7,80.882,79.014,81.011,81.011
+2020,2,Spielberg,Austria,Styrian Grand Prix,GAS,AlphaTauri,,8,80.192,78.744,81.028,81.028
+2020,2,Spielberg,Austria,Styrian Grand Prix,RIC,Renault,,9,79.662,79.229,81.192,81.192
+2020,2,Spielberg,Austria,Styrian Grand Prix,VET,Ferrari,,10,80.243,79.545,81.651,81.651
+2020,2,Spielberg,Austria,Styrian Grand Prix,LEC,Ferrari,,11,80.871,79.628,,79.628
+2020,2,Spielberg,Austria,Styrian Grand Prix,RUS,Williams,,12,80.382,79.636,,79.636
+2020,2,Spielberg,Austria,Styrian Grand Prix,STR,Racing Point,,13,79.697,79.645,,79.645
+2020,2,Spielberg,Austria,Styrian Grand Prix,KVY,AlphaTauri,,14,79.824,79.717,,79.717
+2020,2,Spielberg,Austria,Styrian Grand Prix,MAG,Haas F1 Team,,15,81.14,80.211,,80.211
+2020,2,Spielberg,Austria,Styrian Grand Prix,RAI,Alfa Romeo Racing,,16,81.14,,,81.14
+2020,2,Spielberg,Austria,Styrian Grand Prix,PER,Racing Point,,17,81.607,,,81.607
+2020,2,Spielberg,Austria,Styrian Grand Prix,LAT,Williams,,18,81.759,,,81.759
+2020,2,Spielberg,Austria,Styrian Grand Prix,GIO,Alfa Romeo Racing,,19,81.831,,,81.831
+2020,2,Spielberg,Austria,Styrian Grand Prix,GRO,Haas F1 Team,,20,,,,
+2020,3,Budapest,Hungary,Hungarian Grand Prix,HAM,Mercedes,,1,74.907,74.261,73.447,73.447
+2020,3,Budapest,Hungary,Hungarian Grand Prix,BOT,Mercedes,,2,75.474,74.53,73.554,73.554
+2020,3,Budapest,Hungary,Hungarian Grand Prix,STR,Racing Point,,3,74.895,75.176,74.377,74.377
+2020,3,Budapest,Hungary,Hungarian Grand Prix,PER,Racing Point,,4,74.681,75.394,74.545,74.545
+2020,3,Budapest,Hungary,Hungarian Grand Prix,VET,Ferrari,,5,75.455,75.131,74.774,74.774
+2020,3,Budapest,Hungary,Hungarian Grand Prix,LEC,Ferrari,,6,75.793,75.006,74.817,74.817
+2020,3,Budapest,Hungary,Hungarian Grand Prix,VER,Red Bull Racing,,7,75.495,74.976,74.849,74.849
+2020,3,Budapest,Hungary,Hungarian Grand Prix,NOR,McLaren,,8,75.444,75.085,74.966,74.966
+2020,3,Budapest,Hungary,Hungarian Grand Prix,SAI,McLaren,,9,75.281,75.267,75.027,75.027
+2020,3,Budapest,Hungary,Hungarian Grand Prix,GAS,AlphaTauri,,10,75.767,75.508,,75.508
+2020,3,Budapest,Hungary,Hungarian Grand Prix,RIC,Renault,,11,75.848,75.661,,75.661
+2020,3,Budapest,Hungary,Hungarian Grand Prix,RUS,Williams,,12,75.585,75.698,,75.698
+2020,3,Budapest,Hungary,Hungarian Grand Prix,ALB,Red Bull Racing,,13,75.722,75.715,,75.715
+2020,3,Budapest,Hungary,Hungarian Grand Prix,OCO,Renault,,14,75.719,75.742,,75.742
+2020,3,Budapest,Hungary,Hungarian Grand Prix,LAT,Williams,,15,76.105,76.544,,76.544
+2020,3,Budapest,Hungary,Hungarian Grand Prix,MAG,Haas F1 Team,,16,76.152,,,76.152
+2020,3,Budapest,Hungary,Hungarian Grand Prix,KVY,AlphaTauri,,17,76.204,,,76.204
+2020,3,Budapest,Hungary,Hungarian Grand Prix,GRO,Haas F1 Team,,18,76.407,,,76.407
+2020,3,Budapest,Hungary,Hungarian Grand Prix,GIO,Alfa Romeo Racing,,19,76.506,,,76.506
+2020,3,Budapest,Hungary,Hungarian Grand Prix,RAI,Alfa Romeo Racing,,20,76.614,,,76.614
+2020,4,Silverstone,Great Britain,British Grand Prix,HAM,Mercedes,,1,85.9,85.347,84.303,84.303
+2020,4,Silverstone,Great Britain,British Grand Prix,BOT,Mercedes,,2,85.801,85.015,84.616,84.616
+2020,4,Silverstone,Great Britain,British Grand Prix,VER,Red Bull Racing,,3,86.115,86.144,85.325,85.325
+2020,4,Silverstone,Great Britain,British Grand Prix,LEC,Ferrari,,4,86.55,86.203,85.427,85.427
+2020,4,Silverstone,Great Britain,British Grand Prix,NOR,McLaren,,5,86.855,86.42,85.782,85.782
+2020,4,Silverstone,Great Britain,British Grand Prix,STR,Racing Point,,6,86.243,86.501,85.839,85.839
+2020,4,Silverstone,Great Britain,British Grand Prix,SAI,McLaren,,7,86.715,86.149,85.965,85.965
+2020,4,Silverstone,Great Britain,British Grand Prix,RIC,Renault,,8,86.677,86.339,86.009,86.009
+2020,4,Silverstone,Great Britain,British Grand Prix,OCO,Renault,,9,86.396,86.252,86.209,86.209
+2020,4,Silverstone,Great Britain,British Grand Prix,VET,Ferrari,,10,86.469,86.455,86.339,86.339
+2020,4,Silverstone,Great Britain,British Grand Prix,GAS,AlphaTauri,,11,86.343,86.501,,86.501
+2020,4,Silverstone,Great Britain,British Grand Prix,ALB,Red Bull Racing,,12,86.565,86.545,,86.545
+2020,4,Silverstone,Great Britain,British Grand Prix,HUL,Racing Point,,13,86.327,86.566,,86.566
+2020,4,Silverstone,Great Britain,British Grand Prix,KVY,AlphaTauri,,14,86.774,86.744,,86.744
+2020,4,Silverstone,Great Britain,British Grand Prix,RUS,Williams,,15,86.732,87.092,,87.092
+2020,4,Silverstone,Great Britain,British Grand Prix,MAG,Haas F1 Team,,16,87.158,,,87.158
+2020,4,Silverstone,Great Britain,British Grand Prix,GIO,Alfa Romeo Racing,,17,87.164,,,87.164
+2020,4,Silverstone,Great Britain,British Grand Prix,RAI,Alfa Romeo Racing,,18,87.366,,,87.366
+2020,4,Silverstone,Great Britain,British Grand Prix,GRO,Haas F1 Team,,19,87.643,,,87.643
+2020,4,Silverstone,Great Britain,British Grand Prix,LAT,Williams,,20,87.705,,,87.705
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,BOT,Mercedes,,1,86.738,85.785,85.154,85.154
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,HAM,Mercedes,,2,86.818,86.266,85.217,85.217
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,HUL,Racing Point,,3,87.279,86.261,86.082,86.082
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,VER,Red Bull Racing,,4,87.154,86.779,86.176,86.176
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,RIC,Renault,,5,87.442,86.636,86.297,86.297
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,STR,Racing Point,,6,87.187,86.674,86.428,86.428
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,GAS,AlphaTauri,,7,87.154,86.523,86.534,86.534
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,LEC,Ferrari,,8,87.427,86.709,86.614,86.614
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,ALB,Red Bull Racing,,9,87.153,86.642,86.669,86.669
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,NOR,McLaren,,10,87.217,86.885,86.778,86.778
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,OCO,Renault,,11,87.278,87.011,,87.011
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,VET,Ferrari,,12,87.612,87.078,,87.078
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,SAI,McLaren,,13,87.45,87.083,,87.083
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,GRO,Haas F1 Team,,14,87.519,87.254,,87.254
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,RUS,Williams,,15,87.757,87.455,,87.455
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,KVY,AlphaTauri,,16,87.882,,,87.882
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,MAG,Haas F1 Team,,17,88.236,,,88.236
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,LAT,Williams,,18,88.43,,,88.43
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,GIO,Alfa Romeo Racing,,19,88.433,,,88.433
+2020,5,Silverstone,Great Britain,70th Anniversary Grand Prix,RAI,Alfa Romeo Racing,,20,88.493,,,88.493
+2020,6,Barcelona,Spain,Spanish Grand Prix,HAM,Mercedes,,1,76.872,76.013,75.584,75.584
+2020,6,Barcelona,Spain,Spanish Grand Prix,BOT,Mercedes,,2,77.243,76.152,75.643,75.643
+2020,6,Barcelona,Spain,Spanish Grand Prix,VER,Red Bull Racing,,3,77.213,76.518,76.292,76.292
+2020,6,Barcelona,Spain,Spanish Grand Prix,PER,Racing Point,,4,77.117,76.936,76.482,76.482
+2020,6,Barcelona,Spain,Spanish Grand Prix,STR,Racing Point,,5,77.316,76.666,76.589,76.589
+2020,6,Barcelona,Spain,Spanish Grand Prix,ALB,Red Bull Racing,,6,77.419,77.163,77.029,77.029
+2020,6,Barcelona,Spain,Spanish Grand Prix,SAI,McLaren,,7,77.438,76.876,77.044,77.044
+2020,6,Barcelona,Spain,Spanish Grand Prix,NOR,McLaren,,8,77.577,77.166,77.084,77.084
+2020,6,Barcelona,Spain,Spanish Grand Prix,LEC,Ferrari,,9,77.256,76.953,77.087,77.087
+2020,6,Barcelona,Spain,Spanish Grand Prix,GAS,AlphaTauri,,10,77.356,76.8,77.136,77.136
+2020,6,Barcelona,Spain,Spanish Grand Prix,VET,Ferrari,,11,77.573,77.168,,77.168
+2020,6,Barcelona,Spain,Spanish Grand Prix,KVY,AlphaTauri,,12,77.676,77.192,,77.192
+2020,6,Barcelona,Spain,Spanish Grand Prix,RIC,Renault,,13,77.667,77.198,,77.198
+2020,6,Barcelona,Spain,Spanish Grand Prix,RAI,Alfa Romeo Racing,,14,77.797,77.386,,77.386
+2020,6,Barcelona,Spain,Spanish Grand Prix,OCO,Renault,,15,77.765,77.567,,77.567
+2020,6,Barcelona,Spain,Spanish Grand Prix,MAG,Haas F1 Team,,16,77.908,,,77.908
+2020,6,Barcelona,Spain,Spanish Grand Prix,GRO,Haas F1 Team,,17,78.089,,,78.089
+2020,6,Barcelona,Spain,Spanish Grand Prix,RUS,Williams,,18,78.099,,,78.099
+2020,6,Barcelona,Spain,Spanish Grand Prix,LAT,Williams,,19,78.532,,,78.532
+2020,6,Barcelona,Spain,Spanish Grand Prix,GIO,Alfa Romeo Racing,,20,78.697,,,78.697
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,HAM,Mercedes,,1,102.323,102.014,101.252,101.252
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,BOT,Mercedes,,2,102.534,102.126,101.763,101.763
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,VER,Red Bull Racing,,3,103.197,102.473,101.778,101.778
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,RIC,Renault,,4,103.309,102.487,102.061,102.061
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,ALB,Red Bull Racing,,5,103.418,102.193,102.264,102.264
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,OCO,Renault,,6,103.505,102.534,102.396,102.396
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,SAI,McLaren,,7,103.322,102.478,102.438,102.438
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,PER,Racing Point,,8,103.349,102.67,102.532,102.532
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,STR,Racing Point,,9,103.265,102.491,102.603,102.603
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,NOR,McLaren,,10,103.514,102.722,102.657,102.657
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,KVY,AlphaTauri,,11,103.267,102.73,,102.73
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,GAS,AlphaTauri,,12,103.262,102.745,,102.745
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,LEC,Ferrari,,13,103.656,102.996,,102.996
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,VET,Ferrari,,14,103.567,103.261,,103.261
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,RUS,Williams,,15,103.63,103.468,,103.468
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,RAI,Alfa Romeo Racing,,16,103.743,,,103.743
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,GRO,Haas F1 Team,,17,103.838,,,103.838
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,GIO,Alfa Romeo Racing,,18,103.95,,,103.95
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,LAT,Williams,,19,104.138,,,104.138
+2020,7,Spa-Francorchamps,Belgium,Belgian Grand Prix,MAG,Haas F1 Team,,20,104.314,,,104.314
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,VER,Red Bull Racing,NED,1,90.031,89.374,89.179,89.179
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,LEC,Ferrari,MON,2,90.243,89.165,89.407,89.407
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,RUS,Mercedes,GBR,3,90.35,89.922,89.485,89.485
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,SAI,Ferrari,ESP,4,89.909,89.573,89.507,89.507
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,PER,Red Bull Racing,MEX,5,90.221,89.932,89.537,89.537
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,ALO,Aston Martin,ESP,6,90.179,89.801,89.542,89.542
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,NOR,McLaren,GBR,7,90.143,89.941,89.614,89.614
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,PIA,McLaren,AUS,8,90.531,90.122,89.683,89.683
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,HAM,Mercedes,GBR,9,90.451,89.718,89.71,89.71
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,HUL,Haas F1 Team,GER,10,90.566,89.851,90.502,90.502
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,TSU,RB,JPN,11,90.481,90.129,,90.129
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,STR,Aston Martin,CAN,12,89.965,90.2,,90.2
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,ALB,Williams,THA,13,90.397,90.221,,90.221
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,RIC,RB,AUS,14,90.562,90.278,,90.278
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,MAG,Haas F1 Team,DEN,15,90.646,90.529,,90.529
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,BOT,Kick Sauber,FIN,16,90.756,,,90.756
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,ZHO,Kick Sauber,CHN,17,90.757,,,90.757
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,SAR,Williams,USA,18,90.77,,,90.77
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,OCO,Alpine,FRA,19,90.793,,,90.793
+2024,1,Sakhir,Bahrain,Bahrain Grand Prix,GAS,Alpine,FRA,20,90.948,,,90.948

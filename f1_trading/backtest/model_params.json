@@ -1,0 +1,16 @@
+{
+  "w_pod": [
+    NaN,
+    NaN,
+    NaN
+  ],
+  "b_pod": NaN,
+  "w_win": [
+    NaN,
+    NaN,
+    NaN
+  ],
+  "b_win": NaN,
+  "gap_mean": NaN,
+  "gap_std": NaN
+}

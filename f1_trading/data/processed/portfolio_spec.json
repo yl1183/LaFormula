@@ -1,0 +1,65 @@
+{
+  "name": "F1 Podium Alpha",
+  "version": "2.0",
+  "date": "2026-03-04",
+  "strategies": [
+    {
+      "id": "S01",
+      "name": "Buy YES underpriced podium",
+      "market": "RACEPODIUM",
+      "side": "YES",
+      "condition": "base_rate - kalshi_yes_price > 0.15",
+      "grid_filter": "1-10",
+      "kelly_fraction": 0.25,
+      "max_bet_pct": 0.15
+    },
+    {
+      "id": "S02",
+      "name": "Sell overpriced podium",
+      "market": "RACEPODIUM",
+      "side": "NO",
+      "condition": "(1 - base_rate) - kalshi_no_price > 0.15",
+      "grid_filter": "1-10",
+      "kelly_fraction": 0.25,
+      "max_bet_pct": 0.15
+    }
+  ],
+  "base_rates": {
+    "podium": {
+      "1": 0.8,
+      "2": 0.72,
+      "3": 0.536,
+      "4": 0.352,
+      "5": 0.192,
+      "6": 0.12,
+      "7": 0.073,
+      "8": 0.024,
+      "9": 0.016,
+      "10": 0.04
+    },
+    "win": {
+      "1": 0.496,
+      "2": 0.24,
+      "3": 0.12,
+      "4": 0.04,
+      "5": 0.016,
+      "6": 0.032,
+      "7": 0.008,
+      "8": 0.008,
+      "9": 0.008,
+      "10": 0.024
+    }
+  },
+  "backtest_2025": {
+    "trades": 47,
+    "return_pct": 467,
+    "final_bankroll": 567,
+    "winning_weekends": "11/22",
+    "bootstrap_p_profit": 0.96,
+    "without_top2_trades": "+151%"
+  },
+  "fees": {
+    "kalshi_winner_fee": 0.07,
+    "description": "7% of net winnings"
+  }
+}

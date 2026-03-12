@@ -1,0 +1,82 @@
+[
+  {
+    "label": "Baseline (S01+S03+S18, flat $10, no filter)",
+    "trades": 83,
+    "final": 170.39,
+    "return_pct": 70.4,
+    "win_rate": 39.8,
+    "skipped_liquidity": 1,
+    "top3_weekend_pnl": 117.66,
+    "without_top3": -47.27
+  },
+  {
+    "label": "+ Liquidity filter ($50 min vol)",
+    "trades": 83,
+    "final": 170.39,
+    "return_pct": 70.4,
+    "win_rate": 39.8,
+    "skipped_liquidity": 7,
+    "top3_weekend_pnl": 117.66,
+    "without_top3": -47.27
+  },
+  {
+    "label": "+ Logistic adjuster",
+    "trades": 76,
+    "final": 186.23,
+    "return_pct": 86.2,
+    "win_rate": 40.8,
+    "skipped_liquidity": 7,
+    "top3_weekend_pnl": 140.74,
+    "without_top3": -54.51
+  },
+  {
+    "label": "+ Weekend cap (30% max exposure)",
+    "trades": 76,
+    "final": 186.23,
+    "return_pct": 86.2,
+    "win_rate": 40.8,
+    "skipped_liquidity": 7,
+    "top3_weekend_pnl": 140.74,
+    "without_top3": -54.51
+  },
+  {
+    "label": "Kelly + weekend cap",
+    "trades": 76,
+    "final": 271.18,
+    "return_pct": 171.2,
+    "win_rate": 40.8,
+    "skipped_liquidity": 7,
+    "top3_weekend_pnl": 205.06,
+    "without_top3": -33.88
+  },
+  {
+    "label": "Tiered + weekend cap",
+    "trades": 76,
+    "final": 261.85,
+    "return_pct": 161.9,
+    "win_rate": 40.8,
+    "skipped_liquidity": 7,
+    "top3_weekend_pnl": 220.11,
+    "without_top3": -58.26
+  },
+  {
+    "label": "Lower threshold (12%)",
+    "trades": 99,
+    "final": 68.8,
+    "return_pct": -31.2,
+    "win_rate": 34.3,
+    "skipped_liquidity": 7,
+    "top3_weekend_pnl": 102.82,
+    "without_top3": -134.02
+  },
+  {
+    "label": "Lower threshold (10%)",
+    "trades": 120,
+    "final": 40.26,
+    "return_pct": -59.7,
+    "win_rate": 32.5,
+    "skipped_liquidity": 7,
+    "top3_weekend_pnl": 67.74,
+    "without_top3": -127.48
+  }
+]

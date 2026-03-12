@@ -1,0 +1,25 @@
+# Dependencies (rebuilt in Docker)
+frontend/node_modules/
+
+# Local dev files
+.env
+.credentials/
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Local DB (Fly.io has its own persistent volume)
+backend/data/*.db
+backend/data/*.db-wal
+backend/data/*.db-shm
+
+# IDE
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Test artifacts
+tests/review_results.json

@@ -1,0 +1,6 @@
+round,race_name,event_code,market_type,driver,grid_pos,side,price,edge,stake,outcome,pnl,bankroll
+4,Bahrain,BGP25,RACEPODIUM,NOR,6,NO,0.6025,0.6328,6.26,1,-6.26,93.74
+6,Miami,MGP25,RACEPODIUM,ANT,3,YES,0.3731,0.2855,2.39,0,-2.39,91.35
+12,Great Britain,BRGP25,RACEPODIUM,NOR,3,NO,0.7091,0.2301,1.29,1,-1.29,90.06
+17,Azerbaijan,AZEGP25,RACEPODIUM,ANT,4,YES,0.2054,0.2381,0.83,0,-0.83,89.22
+17,Azerbaijan,AZEGP25,RACEPODIUM,NOR,7,NO,0.6623,0.6449,4.44,0,8.1,97.33

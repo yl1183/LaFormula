@@ -1,0 +1,25 @@
+{
+  "stats": {
+    "initial_bankroll": 100.0,
+    "final_bankroll": 13.76,
+    "total_return_pct": -86.24000000000001,
+    "total_trades": 146,
+    "wins": 45,
+    "losses": 101,
+    "win_rate": 0.3082191780821918,
+    "avg_win": 5.596222222222223,
+    "avg_loss": -3.3469306930693064,
+    "profit_factor": 0.7449710093480063,
+    "sharpe": -0.33309197008258845,
+    "max_drawdown_pct": 86.24,
+    "races_traded": 23,
+    "avg_trades_per_race": 6.3478260869565215
+  },
+  "robustness": {
+    "loo_profitable": "0/23",
+    "bootstrap_p_profit": 0.1042,
+    "bootstrap_median": -88.14999999999999,
+    "return_without_top1": -1.2155999999999998,
+    "return_without_top3": -1.5789999999999997
+  }
+}

@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: f1-kalshi-trading
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: DRY_RUN
+        value: "true"
+      - key: DB_PATH
+        value: /app/data/f1trading.db
+      - key: KALSHI_API_KEY
+        sync: false
+      - key: KALSHI_PEM_PATH
+        sync: false
+      - key: CONFIRM_PIN
+        value: "483291"
+    disk:
+      name: f1-data
+      mountPath: /app/data
+      sizeGB: 1

@@ -1,0 +1,21 @@
+{
+  "flat": {
+    "block_bootstrap_p_profit": 0.96866,
+    "block_bootstrap_median": 344.9150000000001,
+    "block_bootstrap_5pct": 34.17999999999999,
+    "block_bootstrap_95pct": 731.3929999999998,
+    "naive_bootstrap_p_profit": 0.99294,
+    "overstatement": 0.02428000000000008,
+    "concentration": {
+      "top3_weekend_pnl": 343.87,
+      "top3_weekend_pct": 96.27358754689511,
+      "without_top3": 13.31000000000006
+    }
+  },
+  "compounded": {
+    "block_bootstrap_p_profit": 0.89898,
+    "block_bootstrap_median": 1536.1555878676504,
+    "block_bootstrap_5pct": 49.79712748897806,
+    "block_bootstrap_95pct": 91064.76497534323
+  }
+}

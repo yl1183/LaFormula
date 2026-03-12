@@ -1,0 +1,29 @@
+# Credentials — NEVER commit
+.credentials/
+.env
+*.pem
+
+# Local database
+backend/data/*.db
+backend/data/*.db-wal
+backend/data/*.db-shm
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+nohup.out

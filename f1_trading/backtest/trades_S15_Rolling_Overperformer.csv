@@ -1,0 +1,4 @@
+round,race_name,event_code,market_type,driver,grid_pos,side,price,edge,stake,outcome,pnl,bankroll
+4,Bahrain,BGP25,RACEPODIUM,ANT,4,YES,0.18,0.3357,1.47,0,-1.47,98.53
+8,Monaco,MCGP25,RACEPODIUM,HAM,4,YES,0.205,0.2661,1.35,0,-1.35,97.17
+11,Austria,AUGP25,RACEPODIUM,HAM,4,YES,0.2029,0.2331,1.15,0,-1.15,96.02

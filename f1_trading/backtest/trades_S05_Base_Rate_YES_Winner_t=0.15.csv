@@ -1,0 +1,6 @@
+round,race_name,event_code,market_type,driver,grid_pos,side,price,edge,stake,outcome,pnl,bankroll
+3,Japan,JGP25,RACE,VER,1,YES,0.3197,0.1803,2.12,1,4.19,104.19
+10,Canada,CAGP25,RACE,RUS,1,YES,0.2578,0.2422,2.19,1,5.87,110.06
+14,Hungary,HUNGP25,RACE,LEC,1,YES,0.1921,0.3079,2.01,0,-2.01,108.04
+16,Italy,ITAGP25,RACE,VER,1,YES,0.3034,0.1966,2.31,1,4.94,112.98
+22,Las Vegas,LASVGP25,RACE,NOR,1,YES,0.2602,0.2398,2.38,0,-2.38,110.6
