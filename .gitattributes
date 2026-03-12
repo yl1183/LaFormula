@@ -1,1 +1,3 @@
 f1_trading/data/raw/kalshi_all.json filter=lfs diff=lfs merge=lfs -text
+*.ff1pkl filter=lfs diff=lfs merge=lfs -text
+fastf1_http_cache.sqlite filter=lfs diff=lfs merge=lfs -text

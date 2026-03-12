@@ -29,8 +29,11 @@ f1_dashboard/frontend/.vite/
 
 # === Large raw data (use Git LFS or store externally) ===
 
-# === FastF1 telemetry cache (re-downloadable, 346 MB) ===
-.cache/
+# === FastF1 telemetry cache (tracked via Git LFS) ===
+# Allow .cache/fastf1 — do NOT ignore it
+!.cache/
+!.cache/fastf1/
+!.cache/fastf1/**
 
 # === Secrets & local config ===
 .env
@@ -59,3 +62,4 @@ Thumbs.db
 .fly/
 .npm-global/
 .local/
+.cache/fastf1/fastf1_http_cache.sqlite
