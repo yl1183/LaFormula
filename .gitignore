@@ -28,7 +28,6 @@ f1_dashboard/frontend/.vite/
 !f1_dashboard/backend/data/f1trading_dump.sql
 
 # === Large raw data (use Git LFS or store externally) ===
-f1_trading/data/raw/kalshi_all.json
 
 # === FastF1 telemetry cache (re-downloadable, 346 MB) ===
 .cache/
